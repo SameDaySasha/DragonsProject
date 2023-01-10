@@ -113,8 +113,7 @@ Implement the following in the __classes/friendly-dragon.js__ file.
 
 4. Additionally, add two(2) instance methods to the `FriendlyDragon` class.
     * `hasLifeGoals()` - this method should `console.log` each of the
-    `FriendlyDragon`'s life goals separately, in the format `${name} likes to
-    ${lifeGoal}`
+    `FriendlyDragon`'s life goals separately, in the format 4
     * `helpsPeople()` - this method should return a string using the `name` and
       `friend` property values formatted as `${name} helps their friend
       ${friend}`.
